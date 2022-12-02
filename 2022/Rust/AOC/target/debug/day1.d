@@ -1,0 +1,1 @@
+/Users/kks/Documents/GitRepos/AdventOfCode/2022/Rust/AOC/target/debug/day1: /Users/kks/Documents/GitRepos/AdventOfCode/2022/Rust/AOC/src/bin/day1.rs /Users/kks/Documents/GitRepos/AdventOfCode/2022/Rust/AOC/src/bin/input.txt

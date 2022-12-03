@@ -1,0 +1,1 @@
+/Users/kks/Documents/GitRepos/AdventOfCode/2022/Rust/target/debug/day3: /Users/kks/Documents/GitRepos/AdventOfCode/2022/Rust/src/bin/day3.rs /Users/kks/Documents/GitRepos/AdventOfCode/2022/Rust/src/bin/inputDay3.txt

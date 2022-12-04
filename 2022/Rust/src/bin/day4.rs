@@ -20,8 +20,13 @@ fn main() {
         })
         .map(
             |((first_lower, first_upper), (second_lower, second_upper))| {
+                //part 1
                 if (first_lower <= second_lower && first_upper >= second_upper)
                     || (second_lower <= first_lower && second_upper >= first_upper)
+                {
+                    1
+                } else if (second_upper >= first_upper && second_lower <= first_upper) //part2
+                    || (first_upper >= second_upper && first_lower <= second_upper)
                 {
                     1
                 } else {

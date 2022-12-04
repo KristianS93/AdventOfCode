@@ -1,1 +1,0 @@
-C:\Users\krist\Documents\GitRepos\AdventOfCode\2022\Rust\target\debug\day4.exe: C:\Users\krist\Documents\GitRepos\AdventOfCode\2022\Rust\src\bin\day4.rs C:\Users\krist\Documents\GitRepos\AdventOfCode\2022\Rust\src\bin\inputDay4.txt

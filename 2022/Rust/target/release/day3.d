@@ -1,1 +1,1 @@
-C:\Users\krist\Documents\GitRepos\AdventOfCode\2022\Rust\target\release\day3.exe: C:\Users\krist\Documents\GitRepos\AdventOfCode\2022\Rust\src\bin\day3.rs C:\Users\krist\Documents\GitRepos\AdventOfCode\2022\Rust\src\bin\inputDay3.txt
+C:\Users\krist\Documents\GitRepos\AdventOfCode\2022\Rust\target\release\day3.exe: C:\Users\krist\Documents\GitRepos\AdventOfCode\2022\Rust\src\bin\day3.rs C:\Users\krist\Documents\GitRepos\AdventOfCode\2022\Rust\src\bin\inputDay4.txt

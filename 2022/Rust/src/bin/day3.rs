@@ -1,7 +1,6 @@
 fn main() {
     let now = std::time::Instant::now();
-    let input: &str = include_str!("./inputDay3.txt");
-
+    let input: &str = include_str!("./inputDay4.txt");
     let lines = input
         .split("\n") //Split at new line
         .map(|line| line.split_at(line.len() / 2)) //map each line however as a split string 50/50
